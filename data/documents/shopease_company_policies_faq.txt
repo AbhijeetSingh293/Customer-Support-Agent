@@ -1,0 +1,165 @@
+SHOPEASE — COMPANY POLICIES AND CUSTOMER SUPPORT FAQ
+Document type: Sample / synthetic company knowledge base
+Version: 1.0
+Last updated: 13 November 2026
+
+IMPORTANT
+This is fictional sample content created for the ShopEase AI Customer Support Assistant project.
+It is not an actual policy published by a real company. Replace these rules and contact details
+with your organization's approved information before using this in production.
+
+1. ABOUT SHOPEASE
+ShopEase is a fictional online shopping platform offering electronics, home and kitchen products,
+fashion, books, and everyday accessories. Customers can place orders through the ShopEase website
+or mobile application. Orders are subject to product availability and seller confirmation.
+
+2. ORDER PLACEMENT AND CONFIRMATION
+- After placing an order, the customer receives an order confirmation by email or SMS.
+- An order is considered confirmed when its status changes to "Confirmed" in the customer account.
+- Customers should check the delivery address and phone number immediately after placing an order.
+- If an order is still in "Placed" status, the customer may request cancellation.
+- Orders that have entered "Shipped" status generally cannot be cancelled through self-service.
+- Product prices and availability may change before an order is confirmed.
+
+3. SHIPPING AND DELIVERY
+- Standard delivery usually takes 3–7 business days after order confirmation.
+- Metro-city deliveries may arrive sooner; remote locations may require additional time.
+- Express delivery, when available, usually takes 1–3 business days.
+- Delivery estimates are not guarantees and may be affected by weather, public holidays,
+  courier delays, or incorrect address information.
+- A tracking link is shared once the order is handed to the courier.
+- If tracking has not updated for 48 hours, the customer should contact support.
+- If a package is marked delivered but has not been received, the customer should check with
+  household members, reception, or the building security desk, then contact support within
+  48 hours of the delivery update.
+
+4. RETURNS
+- Eligible products can be returned within 7 days of delivery.
+- The product must be unused, undamaged, and returned with original packaging, tags,
+  accessories, manuals, and included items.
+- Some categories may be non-returnable for hygiene, safety, or customization reasons.
+- Products marked "Non-returnable" on the product page are not eligible for a change-of-mind return.
+- To request a return, open My Orders, select the relevant order, choose "Return item",
+  select a reason, and submit the request.
+- ShopEase may arrange a pickup or provide return instructions depending on the delivery PIN code.
+- Returned products may be inspected before a refund is approved.
+- A return request does not guarantee approval; the item must meet the return conditions.
+
+5. DAMAGED, DEFECTIVE, OR WRONG ITEMS
+- Customers should report a damaged, defective, or incorrect item within 48 hours of delivery.
+- Include clear photos of the item, packaging, shipping label, and any visible damage.
+- Keep the product and packaging until the support team provides instructions.
+- After verification, ShopEase may offer a replacement, refund, or another suitable resolution.
+- Do not send an item to an address that has not been provided by the official support team.
+
+6. REFUNDS
+- Refunds are initiated after the return is approved and any required inspection is completed.
+- After initiation, refunds to the original payment method usually take 5–7 business days.
+- UPI and eligible wallet refunds may be completed sooner, depending on the payment provider.
+- For Cash on Delivery orders, the customer may be asked to provide valid bank or UPI details
+  through the secure account flow.
+- Shipping fees may not be refundable for change-of-mind returns. They may be refunded when
+  the return is due to a verified ShopEase error, damaged item, or incorrect item.
+- If the expected refund period has passed, the customer should share the order ID with support.
+- Never ask a customer to share a password, OTP, CVV, or full card number to process a refund.
+
+7. CANCELLATIONS
+- Customers can request cancellation before an order is shipped.
+- Once shipped, cancellation may no longer be available; the customer can check return eligibility
+  after delivery.
+- If ShopEase cancels an order because of stock or payment issues, the customer will be notified
+  and any captured payment will be refunded.
+- Refund timelines for cancelled prepaid orders are usually 5–7 business days after initiation.
+
+8. WARRANTY AND SERVICE
+- Manufacturer warranty applies only when it is explicitly stated on the product page or warranty
+  card supplied with the product.
+- Warranty duration and coverage vary by brand and product.
+- Warranty generally covers manufacturing defects under normal use; accidental damage, liquid
+  damage, misuse, and unauthorized repairs may be excluded.
+- Customers should retain the invoice and warranty card.
+- For warranty claims, contact the product manufacturer or an authorized service center when
+  the product documentation directs the customer to do so.
+- ShopEase support can help locate order and invoice information but cannot override a
+  manufacturer's warranty decision.
+
+9. PAYMENTS
+- Available payment methods may include UPI, debit cards, credit cards, net banking, and
+  Cash on Delivery for eligible PIN codes and orders.
+- An order is confirmed only after the payment provider reports a successful payment, where
+  prepaid payment is required.
+- If money is debited but the order is not confirmed, wait up to 30 minutes for the status to update.
+  If it remains unsuccessful, contact support with the transaction reference.
+- Never share an OTP, UPI PIN, CVV, password, or complete card details with anyone claiming
+  to be ShopEase support.
+
+10. ACCOUNT AND PRIVACY
+- Customers should use the email address or phone number registered to their ShopEase account
+  when contacting support.
+- Customers are responsible for keeping their passwords and OTPs confidential.
+- Support agents should verify account ownership before discussing order-specific information.
+- Only the minimum information needed to resolve a support request should be collected.
+- Do not expose one customer's order, address, phone number, or payment details to another customer.
+
+11. CUSTOMER SUPPORT
+Fictional sample contact details for development/testing only:
+- Email: support@shopease.example
+- Phone: +91-00000-00000
+- Support hours: Monday–Saturday, 9:00 AM–6:00 PM IST
+- Expected first response: within 24 business hours
+
+The .example email domain and placeholder phone number are intentionally non-operational.
+Replace them with verified company contact details before deployment.
+
+12. FREQUENTLY ASKED QUESTIONS
+
+Q: How can I track my order?
+A: Sign in, open My Orders, select the order, and choose Track Order. Tracking becomes available
+   after the courier receives the package.
+
+Q: How long does delivery take?
+A: Standard delivery usually takes 3–7 business days after confirmation. The estimate can vary
+   by delivery location and courier conditions.
+
+Q: Can I cancel an order?
+A: You can request cancellation before the order is shipped. For shipped orders, check the
+   return policy after delivery.
+
+Q: What is the return window?
+A: Eligible items can generally be returned within 7 days of delivery, subject to product
+   condition and category restrictions.
+
+Q: My item arrived damaged. What should I do?
+A: Report the issue within 48 hours of delivery. Provide photos of the item and packaging,
+   and keep the product until support gives instructions.
+
+Q: When will I receive my refund?
+A: Once a refund is initiated, it usually takes 5–7 business days to appear in the original
+   payment method. Payment-provider timelines may vary.
+
+Q: Is every product covered by a warranty?
+A: No. Warranty coverage depends on the product and manufacturer. Check the product page,
+   invoice, and warranty card.
+
+Q: What should I do if payment was deducted but my order was not created?
+A: Wait up to 30 minutes for the order status to update. If it does not, contact support with
+   the transaction reference. Never share your OTP or UPI PIN.
+
+Q: Can I change my delivery address after ordering?
+A: Contact support immediately. Address changes may only be possible before the order is
+   processed or shipped.
+
+Q: The tracking page says delivered, but I did not receive the parcel. What now?
+A: Check with household members, reception, or building security. If it is still missing,
+   contact support within 48 hours of the delivery update.
+
+13. GUIDANCE FOR THE AI CUSTOMER SUPPORT ASSISTANT
+- Use these documents as general policy guidance, not as proof that a specific order is eligible.
+- For order status, refund status, and customer-specific details, use the authorized backend tools
+  and database records. Do not guess or invent order information.
+- Enforce the authenticated customer's identity on the backend; never trust a customer ID
+  supplied by the language model or typed into a prompt.
+- If a policy is unclear, a product is excluded, or the customer disputes a decision, escalate
+  to a human support agent.
+- Do not promise a refund, replacement, or delivery date before the relevant system confirms it.
+- Do not request passwords, OTPs, CVVs, UPI PINs, or full payment-card numbers.

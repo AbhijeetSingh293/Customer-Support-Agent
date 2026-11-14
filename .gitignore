@@ -1,0 +1,23 @@
+# Environment variables & API keys
+.env
+*.env
+
+# Python virtual environment & cache
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Node / Frontend dependencies & build
+node_modules/
+dist/
+.vite/
+
+# Local SQLite & Vector Store data (keep policy .txt files, ignore binary DBs)
+database/*.db
+data/vector_store/
+
+# OS & VS Code
+.DS_Store
+Thumbs.db
+.vscode/
